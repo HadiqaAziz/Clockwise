@@ -1,6 +1,6 @@
 # Chrome Extension: Date and Time Viewer
 
-#### Video Demo: [(https://drive.google.com/file/d/1mwoqQMi57cBoHo4nHaH-g5TUWC3PQeV6/view)]
+#### Video Demo: [[Click Here](https://drive.google.com/file/d/1mwoqQMi57cBoHo4nHaH-g5TUWC3PQeV6/view)]
 
 #### Description:
 This Chrome extension displays the current date and time with several useful features, including the ability to refresh the time, toggle between 12-hour and 24-hour formats, and view the time in different time zones. It is designed to help users keep track of time in various formats and locations directly from their browser toolbar.
