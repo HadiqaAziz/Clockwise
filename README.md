@@ -49,7 +49,6 @@ This Chrome extension displays the current date and time with several useful fea
 - **JavaScript**: For the logic that controls the time display, format toggle, and time zone switching.
 
 ## Future Enhancements:
-- Integrating more time zones, such as those for major cities worldwide.
 - Adding a dark mode theme for better usability in low-light environments.
 - Implementing an option to show the date in a customizable format (e.g., short date, full date).
 - Saving the user's preferred time zone and format settings for future use.
