@@ -14,7 +14,7 @@ This Chrome extension displays the current date and time with several useful fea
   - UTC
   - New York (EST)
   - London (GMT)
-  - Tokyo (JST)
+  - San Francisco (PST)
 
 ## Installation Instructions:
 
