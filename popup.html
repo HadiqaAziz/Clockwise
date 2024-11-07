@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Date and Time Viewer</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div id="content">
+    <h2>Date and Time</h2>
+    <p id="datetime">Loading...</p>
+    <button id="refreshBtn">Refresh</button>
+    <button id="formatToggleBtn">Toggle Format</button>
+    <select id="timezoneSelect">
+      <option value="local">Local Time</option>
+      <option value="UTC">UTC</option>
+      <option value="America/New_York">New York (EST)</option>
+      <option value="Europe/London">London (GMT)</option>
+      <option value="Asia/Tokyo">San Francisco (PST)</option>
+    </select>
+  </div>
+  <script src="popup.js"></script>
+</body>
+</html>
+
