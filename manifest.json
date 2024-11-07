@@ -1,6 +1,6 @@
 {
     "manifest_version": 3,
-    "name": "Date and Time Viewer",
+    "name": "Clockwise",
     "version": "1.0",
     "description": "A simple Chrome extension that shows the current date and time.",
     "permissions": [],
